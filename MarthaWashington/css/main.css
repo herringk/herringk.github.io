@@ -118,7 +118,7 @@ padding: 10px 0;
 .site-menu a:hover {
   color: white;
 }
-figcaption {
+.figcaption {
   display: block;
   font-family: Sans-Serif;
   font-size: 14;
