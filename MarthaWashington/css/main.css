@@ -17,6 +17,7 @@
   header {
     background: darkgray;
     height: 100px;
+    position: relative;
     /* background-image: url("../images/name-of-your-file-here");
     background-repeat: repeat-x; */
   }
