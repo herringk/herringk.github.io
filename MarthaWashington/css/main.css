@@ -117,3 +117,7 @@ padding: 10px 0;
 .site-menu a:hover {
   color: white;
 }
+figcaption {
+  display: block;
+  font-size: 14;
+}
