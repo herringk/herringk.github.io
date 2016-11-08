@@ -8,6 +8,11 @@
     line-height: 1.5em;
     font-size: 16;
   }
+  figcaption {
+    display: block;
+    font-family: Sans-Serif;
+    font-size: 14;
+  }
 
   /* Change the background color    */
   /* of the header below, or add a  */
@@ -117,9 +122,4 @@ padding: 10px 0;
 /* color of the menu below */
 .site-menu a:hover {
   color: white;
-}
-.figcaption {
-  display: block;
-  font-family: Sans-Serif;
-  font-size: 14;
 }
