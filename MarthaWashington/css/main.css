@@ -8,15 +8,12 @@
     line-height: 1.5em;
     font-size: 16;
   }
-  figure {
+  figcaption {
   text-align: center;
   font-family: sans-serif;
   font-size: 13;
   text-indent: 0;
   width: relative;
-}
-img.scaled {
-  width: 100%;
 }
 
   /* Change the background color    */
