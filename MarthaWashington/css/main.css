@@ -12,7 +12,6 @@
   text-align: center;
   font-family: sans-serif;
   font-size: smaller;
-  padding-top: 0
 }
 
   /* Change the background color    */
@@ -24,7 +23,6 @@
   header {
     background: darkgray;
     height: 100px;
-    position: relative;
     /* background-image: url("../images/name-of-your-file-here");
     background-repeat: repeat-x; */
   }
@@ -32,7 +30,7 @@
   header h1 {
     margin: 0;
     padding-top: 15px;
-  }
+    }
 
   main {
     padding-bottom: 10010px;
@@ -85,10 +83,10 @@
   /* iframe files */
 
 .site-header {
-    margin: 0;
-    padding-top: 15px;
+    padding-top: 0.5px;
     font-family: sans-serif;
     color: black;
+
 }
 
 .site-footer{
